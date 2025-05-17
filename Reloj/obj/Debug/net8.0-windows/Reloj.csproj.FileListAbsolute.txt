@@ -1,0 +1,16 @@
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.exe
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.deps.json
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.pdb
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form1.resources
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\refint\Reloj.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.pdb
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos\Reloj\Reloj\obj\Debug\net8.0-windows\ref\Reloj.dll
